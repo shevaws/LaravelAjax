@@ -147,7 +147,7 @@ Data yang diterima kemudian dirender menjadi **tabel HTML** berisi kolom: No, Na
 
 ## 🖼️ Screenshot Tampilan
 
-![Tampilan Halaman Web](screenshot/tampilan.png)
+![Tampilan Halaman Web](Screenshot/tampilan.png)
 
 ---
 
